@@ -1,2 +1,3 @@
 # Hash
-A private social media website. HASH-make every moment a #tag moment.
+A private social media website. <br> 
+HASH-make every moment a #tag moment.
